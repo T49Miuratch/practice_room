@@ -68,6 +68,18 @@
 phpMyAdmin＝PMA
 
 
+phpのチェックに
+
+var_dump();
+exit();
+
+または
+
+echo'<pre>';
+var_dump();
+echo'</pre>';
+
+を使用する
 
 
 # ことばメモ
